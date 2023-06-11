@@ -1,4 +1,4 @@
-#IBM Applied Data Science Capstone Project
+##IBM Applied Data Science Capstone Project
 As a data scientist working on this project, my responsibilities include:
 Collecting and processing data: Collect data on past Falcon 9 launches, including information on the launch date, mission name, launch site, launch outcome, and first stage landing outcome. You will also need to process the data to make it usable for machine learning models.
 
